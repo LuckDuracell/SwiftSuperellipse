@@ -1,7 +1,7 @@
 
 # SwiftSuperellipse
 
-![Apple SDK Style Package Image of a Stoplight made of various curved Superellipses](https://lukedrushell.com/SwiftSuperellipse.png =300x)
+![Apple SDK Style Package Image of a Stoplight made of various curved Superellipses](https://lukedrushell.com/SwiftSuperellipse.png)
 
 A Swift package for drawing superellipse shapes added into the standard SwiftUI Shapes type. This package allows you to create smooth, rounded shapes with customizable curvature.
 
