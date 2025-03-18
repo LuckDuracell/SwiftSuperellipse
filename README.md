@@ -1,7 +1,7 @@
 
 # SwiftSuperellipse
 
-<img src="[https://github.com/favicon.ico](https://lukedrushell.com/SwiftSuperellipse.png)" width="300" height="300">
+<img src="https://lukedrushell.com/SwiftSuperellipse.png" width="300" height="300">
 
 A Swift package for drawing superellipse shapes added into the standard SwiftUI Shapes type. This package allows you to create smooth, rounded shapes with customizable curvature.
 
