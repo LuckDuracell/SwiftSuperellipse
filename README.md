@@ -39,7 +39,8 @@ https://github.com/LuckDuracell/SwiftSuperellipse
 
 Basic Superellipse Shape
 
-```import SwiftUI
+```
+import SwiftUI
 import SwiftSuperellipse
 
 struct ContentView: View {
@@ -56,6 +57,7 @@ struct ContentView: View {
 ### Examples
 
 ```Superellipse(.appIcon) // Predefined smooth app icon shape ```
+
 ``` Superellipse(.rounded) // More rounded corners ```
 
 ### Preset Values
